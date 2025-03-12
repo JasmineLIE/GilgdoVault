@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Testing
 ---
 # Testing Page
