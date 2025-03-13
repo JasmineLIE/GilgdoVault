@@ -1,5 +1,5 @@
-domain: GilgdoVault
-url: https://jasminelie.github.io/GilgdoVault/
+domain: "/GilgdoVault"
+url: "https://jasminelie.github.io"
 collections:
   authors:
     output: true
