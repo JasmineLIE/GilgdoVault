@@ -1,4 +1,4 @@
-domain: "/GilgdoVault"
+baseurl: "/GilgdoVault/_site"
 url: "https://jasminelie.github.io"
 collections:
   authors:
