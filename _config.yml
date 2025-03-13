@@ -1,4 +1,5 @@
-baseurl: "GilgdoVault"
+domain: GilgdoVault
+url: https://jasminelie.github.io/GilgdoVault/
 collections:
   authors:
     output: true
