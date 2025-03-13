@@ -17,4 +17,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+
     #The "type" field indicates what type of file something is.  You can define a file type based on the name of their directionary, i.e, "_authors"

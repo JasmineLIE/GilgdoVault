@@ -1,0 +1,6 @@
+[submodule "_vaults/Directed-Reading-Vault"]
+	path = _vaults/Directed-Reading-Vault
+	url = https://github.com/JasmineLIE/Directed-Reading-Vault
+[submodule "_posts/tests/Directed-Reading-Vault"]
+	path = _posts/tests/Directed-Reading-Vault
+	url = https://github.com/JasmineLIE/Directed-Reading-Vault

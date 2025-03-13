@@ -1,6 +1,4 @@
 ---
+layout: test
 title: Testing
 ---
-# Testing Page
-
-Doo dee daa
