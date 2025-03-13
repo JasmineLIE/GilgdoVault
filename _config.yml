@@ -1,4 +1,5 @@
 baseurl: "/GilgdoVault"
+url: ""
 jekylcollections:
   authors:
     output: true
