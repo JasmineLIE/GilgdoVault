@@ -8,3 +8,5 @@
   link: GilgdoVault/staff.html
 - name: Test
   link: GilgdoVault/test.html
+
+  #need to find a better way to append GilgdoVault to all of these links
