@@ -1,6 +1,5 @@
-baseurl: "/GilgdoVault/_site"
-url: "https://jasminelie.github.io"
-collections:
+baseurl: "/_site"
+jekylcollections:
   authors:
     output: true
 
