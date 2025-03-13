@@ -1,12 +1,12 @@
 - name: Home
   link: /
 - name: About
-  link: GilgdoVault/about.html
+  link: /about.html
 - name: Blog
-  link: GilgdoVault/blog.html
+  link: /blog.html
 - name: Staff
-  link: GilgdoVault/staff.html
+  link: /staff.html
 - name: Test
-  link: GilgdoVault/test.html
+  link: /test.html
 
   #need to find a better way to append GilgdoVault to all of these links
